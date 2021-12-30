@@ -31,3 +31,4 @@ MariaDB [soetta]> select airline_name from airline where airline_id = 104;
 +---------------+
 1 row in set (0.072 sec)
 ```
+airport.sql
